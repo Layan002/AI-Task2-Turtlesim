@@ -115,7 +115,7 @@ Use the arrow keys to move the turtle around.
 # Important note 
 I've notices that I can open more than one node for different distrobution. As a result, I can control turtlesim node of ROS and turtilesim node of ROS 2: 
 
-<img src= "https://github.com/user-attachments/assets/294dc8f1-dd56-4e04-9519-a0c5af8b7f18" alt= "image" width= 400>
+<img src= "https://github.com/user-attachments/assets/294dc8f1-dd56-4e04-9519-a0c5af8b7f18" alt= "image" width= 600>
 
 
 
