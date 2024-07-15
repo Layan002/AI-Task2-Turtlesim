@@ -71,7 +71,9 @@ Source your ROS 2 setup file to set up the environment:
 source /opt/ros/foxy/setup.bash
 ```
 > [!NOTE]
-> You should unset ROS1 since it's still open unless otherwise you will get this error:
+> You should unset ROS1 since it's still open unless otherwise you will get this error: <br>
+> ![image](https://github.com/user-attachments/assets/92fe0ca9-9793-49c8-abe8-e0fb0cb23305)
+
 
 
 # Launch Turtlesim:
