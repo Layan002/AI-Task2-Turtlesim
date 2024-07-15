@@ -14,14 +14,14 @@ Source your ROS setup file to set up the environment:
 ```
 source /opt/ros/noetic/setup.bash
 ```
-<img src= "https://github.com/user-attachments/assets/bca0d927-9473-488e-9cbb-665d02d715c7" alt= "image" width= 700>
+<img src= "https://github.com/user-attachments/assets/bca0d927-9473-488e-9cbb-665d02d715c7" alt= "image" width= 400>
 
 # Start ROS Master:
 Launch the ROS Master by running:
 ```
 roscore
 ```
-<img src= "https://github.com/user-attachments/assets/8184bfe2-27a6-4642-959c-d923a5cfd4bc" alt= "image" width= 700>
+<img src= "https://github.com/user-attachments/assets/8184bfe2-27a6-4642-959c-d923a5cfd4bc" alt= "image" width= 400>
 
 # Launch Turtlesim:
 Open a new terminal, source the setup file, and launch Turtlesim:
@@ -41,7 +41,7 @@ rosrun turtlesim turtle_teleop_key
 > [!NOTE]
 > Use the arrow keys to move the turtle around.
 
-<img src= "https://github.com/user-attachments/assets/a07e8a1d-ac1b-409a-a3b6-7581268f1613" alt= "image" width= 700>
+<img src= "https://github.com/user-attachments/assets/a07e8a1d-ac1b-409a-a3b6-7581268f1613" alt= "image" width= 400>
 
 
 
