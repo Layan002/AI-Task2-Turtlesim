@@ -101,6 +101,13 @@ ros2 run turtlesim turtlesim_node
 ```
 <img src= "https://github.com/user-attachments/assets/58562204-cc96-4157-b572-4bd032c4778c" alt= "image" width= 400>
 
+# Control the Turtle:
+You can control the turtle using the turtle_teleop_key node. Open a new terminal, source the setup file, and run:
+```
+source /opt/ros/foxy/setup.bash
+ros2 run turtlesim turtle_teleop_key
+```
+Use the arrow keys to move the turtle around.
 
 
 
