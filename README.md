@@ -72,14 +72,14 @@ source /opt/ros/foxy/setup.bash
 ```
 > [!NOTE]
 > You should unset ROS1 since it's still open unless otherwise you will get this error: <br>
-> ![image](https://github.com/user-attachments/assets/92fe0ca9-9793-49c8-abe8-e0fb0cb23305)
+> <img src= "https://github.com/user-attachments/assets/92fe0ca9-9793-49c8-abe8-e0fb0cb23305" alt= "image" width= 400>
 
 - To unset distrobution:
 ```
 unset ROS_DISTRO
 ```
 
-= To ensure everything is unsetted, write the following commands
+- To ensure everything is unsetted, write the following commands
 ```
 unset ROS_DISTRO
 unset ROS_VERSION
@@ -88,6 +88,9 @@ unset ROS_ROOT
 unset ROS_MASTER_URI
 unset ROS_PYTHON_VERSION
 ```
+
+<img src= "https://github.com/user-attachments/assets/9b2fa4fe-8fc6-4839-afda-2d62b4e4481b" alt= "image" width= 400>
+
 
 
 # Launch Turtlesim:
