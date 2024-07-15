@@ -1,4 +1,4 @@
-# Install ROS1 and ROS2
+# Install ROS1 
 Ensure you have ROS 1 installed on your system. If you haven't installed it yet, you can follow [the official ROS installation guide](http://wiki.ros.org/ROS/Installation).
 
 # Install Turtlesim Package:
