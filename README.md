@@ -99,6 +99,7 @@ Open a new terminal, source the setup file, and launch Turtlesim:
 source /opt/ros/foxy/setup.bash
 ros2 run turtlesim turtlesim_node
 ```
+<img src= "https://github.com/user-attachments/assets/58562204-cc96-4157-b572-4bd032c4778c" alt= "image" width= 400>
 
 
 
