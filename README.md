@@ -32,5 +32,13 @@ rosrun turtlesim turtlesim_node
 
 <img src= "https://github.com/user-attachments/assets/a5430c60-1a1d-4c06-9ace-a0f6298347cc" alt= "image" width= 700>
 
+# Control the Turtle:
+You can control the turtle using the turtle_teleop_key node. Open a new terminal, source the setup file, and run:
+```
+source /opt/ros/noetic/setup.bash
+rosrun turtlesim turtle_teleop_key
+```
+> [!NOTE]
+> Use the arrow keys to move the turtle around.
 
 
