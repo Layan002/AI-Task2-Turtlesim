@@ -15,3 +15,9 @@ Source your ROS setup file to set up the environment:
 source /opt/ros/noetic/setup.bash
 ```
 <img src= "https://github.com/user-attachments/assets/bca0d927-9473-488e-9cbb-665d02d715c7" alt= "image" width= 700>
+
+# Start ROS Master:
+Launch the ROS Master by running:
+```
+roscore
+```
