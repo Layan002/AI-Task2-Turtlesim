@@ -23,5 +23,11 @@ roscore
 ```
 <img src= "https://github.com/user-attachments/assets/8184bfe2-27a6-4642-959c-d923a5cfd4bc" alt= "image" width= 700>
 
-# 
+# Launch Turtlesim:
+Open a new terminal, source the setup file, and launch Turtlesim:
+```
+source /opt/ros/noetic/setup.bash
+rosrun turtlesim turtlesim_node
+```
+
 
